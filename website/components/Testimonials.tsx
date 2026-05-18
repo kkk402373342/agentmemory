@@ -23,10 +23,10 @@ interface UseCase {
 const USE_CASES: UseCase[] = [
   {
     name: "Peter Neyra",
-    useCase: "Tracking product pivots over time",
+    useCase: "Backfilled a month of Cursor transcripts",
     quote:
-      "I started using it to help with the memories of how my product has pivoted over time. It was surprisingly accurate. Picked up on things that I moved away from, decided we'd badly done, etc.",
-    href: PH_DISCUSSION_URL,
+      "I backfilled agent memory on my past month's Cursor agent transcripts. It was surprisingly accurate. Picked up on things that I moved away from.",
+    href: "https://www.producthunt.com/p/agent-memory-dev/how-do-you-found-agentmemory-so-far-happy-to-help?comment=5379518",
   },
   {
     name: "Pranav Prakash",
